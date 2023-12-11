@@ -18,7 +18,7 @@ To run the Contestopia server locally:
 
    ```bash
    git clone https://github.com/Galib-23/Nano-Nest-Server.git
-   cd contestopia-server
+   cd Nano-Nest-Server
 
 2. Install Dependencies:
 
